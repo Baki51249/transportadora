@@ -1,0 +1,101 @@
+body {
+    text-align: center;
+    font-family:Arial;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Yellowtail', cursive;
+    background-image: url('in/transportadora.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1{
+    background-color: aqua;
+    height: 200xp;
+    font-size: 22px;
+    padding: 0px;
+    list-style-position: inside;
+    width: 400px;
+    margin: 0px auto;
+}
+
+    
+nav{
+    text-align: center;
+    color:aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-self: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    font-size: 45px;
+    font-family:Arial;
+    text-decoration:underline ;
+    opacity: 1;
+    width: 600px;
+    list-style-position: inside;
+
+}
+
+nav ul{
+    display: flex;
+}
+
+button,input{
+    background-color: rgb(240, 240, 249);
+    padding: 6px 20px;
+    color:rgb(11, 12, 12);
+    cursor:pointer;
+    margin: 3px;
+}
+
+p { 
+    font-size: 22px;
+    
+
+}
+
+ul {
+    list-style-position: inside;
+    padding: 0px;
+    color: rgb(10, 10, 10);
+    font-size: 22px;
+}
+
+div{
+   
+    text-shadow: 2px 2px rgba(0, 190, 190, 0.692);
+    margin: 0 auto;
+    padding:20px 20px;
+    width: 600px ;
+    border-radius: 20px;
+}
+.botao1{
+    background-color: #92a198;
+}
+
+.botao2 {
+    background-color: rgb(229, 235, 233);
+    border-color: #252222;
+    color: black;
+    padding: 5px 20px;
+    font-size: 30px;
+
+}
+ 
+.g{
+background-color: rgba(151, 20, 20, 0.418);
+}
+
+button:hover {
+    background-color: rgb(201, 201, 201);
+}
+
+
+.sua{
+    font-size: 22px;
+
+}
+
